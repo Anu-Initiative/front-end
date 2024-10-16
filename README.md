@@ -12,7 +12,7 @@
 <p>To provide for those that provide for Mother Earth.</p>
 
 <h2>Our Vision</h2>
-<p>Sustain an ecosystem in which the kindness of our community creates lasting, positive impacts for our planet through the environmentally-conscious charities of the world.</p>
+<p>Sustain an ecosystem in which the kindness of our community creates lasting, positive impacts for our planet through the ecologically-conscious charities of the world.</p>
 
 <h2>Our Values</h2>
 <ul>
